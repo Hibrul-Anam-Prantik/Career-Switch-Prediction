@@ -3,8 +3,7 @@
 > A machine learning project to predict whether an individual is likely to change their career, based on demographic, educational, and professional data.
 
 **Course:** CSE422 – Artificial Intelligence Lab  
-**Institution:** BRAC University, Department of Computer Science and Engineering  
-**Submission Date:** September 3, 2026
+**Institution:** BRAC University, Department of Computer Science and Engineering
 
 ---
 
@@ -112,8 +111,8 @@ Seven models were trained and evaluated:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/<your-username>/career-switch-prediction.git
-   cd career-switch-prediction
+   git clone https://github.com/Hibrul-Anam-Prantik/Career-Switch-Prediction.git
+   cd Career-Switch-Prediction
    ```
 
 2. **Install dependencies**
@@ -153,9 +152,9 @@ The full IEEE-format project report is available in this repository:
 
 ## 👤 Author
 
-**Prantik**  
-Department of Computer Science and Engineering  
-BRAC University
+- **Prantik**  
+  Department of Computer Science and Engineering  
+  BRAC University
 
 ---
 
